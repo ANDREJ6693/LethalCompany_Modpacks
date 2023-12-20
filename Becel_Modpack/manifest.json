@@ -1,12 +1,12 @@
 {
     "name": "Becel_Modpack",
-    "version_number": "1.4.0",
+    "version_number": "1.4.1",
     "website_url": "https://thunderstore.io/c/lethal-company/?section=modpacks",
     "description": "Modpack for Becel.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "2018-LC_API-2.2.0",
-        "PopleZoo-BetterItemScan-2.1.5",
+        "PopleZoo-BetterItemScan-2.1.6",
         "FutureSavior-Hold_Scan_Button-1.1.1",
         "bizzlemip-BiggerLobby-2.6.0",
         "x753-More_Suits-1.4.1",
@@ -16,6 +16,6 @@
         "steven4547466-YoutubeBoombox-1.5.0",
         "alexsio-gamba_mod-1.0.8",
         "sunnobunno-YippeeMod-1.2.2",
-        "KlutzyBubbles-BetterEmotes-1.2.2"
+        "KlutzyBubbles-BetterEmotes-1.3.0"
     ]
 }

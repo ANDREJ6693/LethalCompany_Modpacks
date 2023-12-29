@@ -1,10 +1,9 @@
 {
     "name": "Modpack_testing_MoreMusicMod",
-    "version_number": "0.0.0",
+    "version_number": "0.1.0",
     "website_url": "https://github.com/georgebjork/LC-MoreMusicMod",
     "description": "Testing MoreMusicMod in a modpack.",
     "dependencies": [
-        "NastyGum-MoreMusicMod-1.0.0",
         "BepInEx-BepInExPack-5.4.2100"
     ]
 }

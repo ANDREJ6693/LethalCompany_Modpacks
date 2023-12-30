@@ -1,10 +1,10 @@
 {
     "name": "Becel_Modpack",
-    "version_number": "1.8.0",
+    "version_number": "1.10.0",
     "website_url": "",
     "description": "Modpack for Becel.",
     "dependencies": [
-        "anormaltwig-LateCompany-1.0.7",
+        "anormaltwig-LateCompany-1.0.8",
         "EladNLG-EladsHUD-1.1.0",
         "PopleZoo-BetterItemScan-2.1.7",
         "FutureSavior-Hold_Scan_Button-1.1.1",

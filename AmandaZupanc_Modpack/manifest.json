@@ -1,6 +1,6 @@
 {
     "name": "Amanda_Zupanc",
-    "version_number": "1.8.0",
+    "version_number": "1.9.0",
     "website_url": "https://thunderstore.io/c/lethal-company/?section=modpacks",
     "description": "Modpack for Amanda Zupanc!",
     "dependencies": [
@@ -15,6 +15,7 @@
         "RugbugRedfern-Skinwalkers-2.0.1",
         "OrtonLongGaming-FreddyBracken-1.0.6",
         "HomelessGinger-MaskedEnemyOverhaul-2.1.0",
-        "NastyGum-MoreMusicMod-1.0.2"
+        "NastyGum-MoreMusicMod-1.0.2",
+        "FlipMods-TooManyEmotes-1.6.4"
     ]
 }
